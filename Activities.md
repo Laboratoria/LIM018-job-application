@@ -154,9 +154,11 @@ peers y con el equipo de Laboratoria.
 
 <td>
 
-<li>Primera versión del CV + LinkedIn (08/08/2022) </li>
+<li>Primera versión del CV + LinkedIn (semana del 08/08) </li>
 
-<li>Segunda versión del CV + LinkedIn (17/08/2022) </li>
+<li>Segunda versión del CV (18/08) </li>
+
+<li>Segunda versión del Linkedin (semana del 22/08) </li>
 
 </td>
 
