@@ -42,7 +42,7 @@ aprendizajes que tendrás.
 
 <li>Readme del proyecto</li>
 
-<li>Pildora: Cómo funciona un proceso de selección</li>
+<li> <a href="https://www.loom.com/share/eff20dfbb64a488abb6181acd95a8dbf">Pildora: Cómo funciona un proceso de selección</a></li>
 
 <li>Q&A Readme del proyecto</li>
 
