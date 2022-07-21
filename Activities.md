@@ -28,9 +28,7 @@
 
 <p>
 
-Conocerás el readme del proyecto y te harás una idea más clara de los
-
-aprendizajes que tendrás.
+Conocerás el readme del proyecto y te harás una idea más clara de los aprendizajes que tendrás.
 
 </p>
 
@@ -74,15 +72,7 @@ Preparación de herramientas y para la simulación de entrevista RH
 
 <p>
 
-Podrás reconocer en tu historia de vida, tus experiencias previas y tus
-
-experiencias en laboratoria, esas habilidades y conocimientos y te hacen
-
-única y que quieres plasmar en tu hoja de vida (cv), en tu perfil de
-
-LinkedIn y transmitir en futuras entrevistas de recursos humanos o fit
-
-cultural con empresas de la industria.
+Podrás reconocer en tu historia de vida, tus experiencias previas, tus experiencias en Laboratoria, esas habilidades y conocimientos y te hacen única y que quieres plasmar en tu hoja de vida (CV), en tu perfil de LinkedIn y poder transmitir en futuras entrevistas de recursos humanos o fit cultural con empresas de la industria.
 
 </p>
 
@@ -96,7 +86,7 @@ cultural con empresas de la industria.
 
 <li>Taller: Historia de vida y habilidades transferibles.</li>
 
-<li> <a href="https://docs.google.com/presentation/d/18L3EXGPmOAJoZYdthmJ7xiEu2wOrTUzdsoDgG-2qJRY/edit#slide=id.g10f517c8353_0_0"> Píldora: About me y pitch.</a></li><li></li>
+<li> <a href="https://docs.google.com/presentation/d/18L3EXGPmOAJoZYdthmJ7xiEu2wOrTUzdsoDgG-2qJRY/edit#slide=id.g10f517c8353_0_0"> Píldora: About me y pitch.</a></li>
 <li>Espacio grupal para compartir “about me” y dar y recibir feedback.</li>
 
 </ul>
@@ -117,17 +107,13 @@ cultural con empresas de la industria.
 
 <p>
 
-Trabajarás en una primera versión de tu CV y perfil de LinkedIn para
-
-recibir feedback de profesionales de la industria.
+Trabajarás en una primera versión de tu CV y perfil de LinkedIn para recibir feedback de profesionales de la industria.
 
 </p>
 
 <p>
 
-Recuerda que también puedes autogestionar espacios de feedback con tus
-
-peers y con el equipo de Laboratoria.
+Recuerda que también puedes autogestionar espacios de feedback con tus peers y con el equipo de Laboratoria.
 
 </p>
 
@@ -137,11 +123,11 @@ peers y con el equipo de Laboratoria.
 
 <ul>
 
-<li>Pildora: CV en la industria tech.</li>
+<li> <a href="https://www.loom.com/share/b682c1f7b7964641a5fe1b8acfcf4b8e"> Píldora: CV en la industria tech.</a></li>
 
-<li>Pildora: Funcionamiento de Linkedin</li>
+<li> <a href="https://www.loom.com/share/8c43a7129e654962bb53ea1a74088a9b"> Píldora: Funcionamiento de Linkedin</a></li>
 
-<li>Píldora: Recomendaciones para la foto.</li>
+<li> <a href="https://www.loom.com/share/cb019555280444ada9dacab2810fefdb"> Píldora: Recomendaciones para la foto.</a></li>
 
 <li>OH con el equipo (son opcionales y puedes solicitarlas a tu CDP).</li>
 
@@ -173,9 +159,7 @@ peers y con el equipo de Laboratoria.
 
 <p>
 
-Tendrás un simulacro grupal de entrevista de Recursos Humanos con tus
-
-compañeras y con el equipo de Laboratoria.
+Tendrás un simulacro grupal de entrevista de Recursos Humanos con tus compañeras y con el equipo de Laboratoria.
 
 </p>
 
@@ -185,9 +169,9 @@ compañeras y con el equipo de Laboratoria.
 
 <ul>
 
-<li>Píldora: Tips y buenas prácticas entrevista RRHH.</li>
+<li> <a href="https://www.youtube.com/watch?v=HjOUpKgbdIM"> Píldora: Tips y buenas prácticas entrevista RRHH.</a></li>
 
-<li>Píldora: Negociación salario y condiciones laborales.</li>
+<li> <a href="https://drive.google.com/file/d/1BJz3dWOzIUAoTyCclnKpZlQRRAZ4vxv_/view"> Píldora: Negociación salario y condiciones laborales.</a></li>
 
 </ul>
 
@@ -251,9 +235,7 @@ Sesiones de revisión de herramientas y simulación de entrevista RH
 
 <p>
 
-Este espacio será programado por el equipo de Laboratoria y se dividirá
-
-en 2 momentos:
+Este espacio será programado por el equipo de Laboratoria y se dividirá en 2 momentos:
 
 <ul>
 
