@@ -72,7 +72,7 @@ Preparación de herramientas y para la simulación de entrevista RH
 
 <p>
 
-Podrás reconocer en tu historia de vida, tus experiencias previas, tus experiencias en Laboratoria, esas habilidades y conocimientos y te hacen única y que quieres plasmar en tu hoja de vida (CV), en tu perfil de LinkedIn y poder transmitir en futuras entrevistas de recursos humanos o fit cultural con empresas de la industria.
+Podrás reconocer en tu historia de vida, tus experiencias previas, tus experiencias en Laboratoria, esas habilidades y conocimientos que te hacen única y que quieres plasmar en tu hoja de vida (CV), en tu perfil de LinkedIn y que podrás transmitir en futuras entrevistas de recursos humanos o fit cultural con empresas de la industria.
 
 </p>
 
@@ -191,11 +191,7 @@ Tendrás un simulacro grupal de entrevista de Recursos Humanos con tus compañer
 
 <p>
 
-Te compartiremos cómo serán las sesiones de revisión de herramientas y
-
-la simulación de la entrevista de RH y podrás prepararte para esta
-
-experiencia.
+Te compartiremos cómo serán las sesiones de revisión de herramientas y la simulación de la entrevista de RRHH y con ello podrás prepararte para esta experiencia.
 
 </p>
 
