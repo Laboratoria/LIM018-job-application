@@ -96,8 +96,7 @@ cultural con empresas de la industria.
 
 <li>Taller: Historia de vida y habilidades transferibles.</li>
 
-<li>Píldora: About me y pitch.</li>
-
+<li> <a href="https://docs.google.com/presentation/d/18L3EXGPmOAJoZYdthmJ7xiEu2wOrTUzdsoDgG-2qJRY/edit#slide=id.g10f517c8353_0_0"> Píldora: About me y pitch.</a></li><li></li>
 <li>Espacio grupal para compartir “about me” y dar y recibir feedback.</li>
 
 </ul>
