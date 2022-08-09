@@ -335,7 +335,7 @@ entrevista + CV + Linkedin.
 
 </li>
 
-<li>Autoevaluación de performance en entrevista + CV + Linkedin.</li>
+<li> <a href="https://docs.google.com/forms/d/e/1FAIpQLSep0EPeAEyTsbnU-kXfyV_BECwqfRWpGgE90-pR16UxErR2Qg/viewform?usp=sf_link"> Autoevaluación de performance en entrevista + CV + Linkedin.</a></li>
 
 <li>Tercera versión de CV + perfil de LinkedIn con mejoras incorporadas</li>
 
@@ -531,7 +531,7 @@ y también harás una autoevaluación.
 
 <li>Guía sesiones de mentoría (apartado en el read me).</li>
 
-<li>Form autoevaluación estudiante y evaluación a mentora/or.</li>
+<li> <a href="https://docs.google.com/forms/d/e/1FAIpQLSftcWPfMSyMPpoeaiTg7blJVuRjTZ0mk82yb1Hv8rPdZH-kJA/viewform?usp=sf_link">Form autoevaluación estudiante y evaluación a mentora/or.</li>
 
 </ul>
 
