@@ -261,7 +261,7 @@ Este espacio será programado por el equipo de Laboratoria y se dividirá en 2 m
 
 <tr>
 
-<td><!-- Semana del 22/08 --></td>
+<td>Semana del 22/08</td>
 
 <td>
 
@@ -285,7 +285,7 @@ Actualización del perfil de LinkedIn con recomendaciones incorporadas.
 
 <tr>
 
-<td><!-- Semana del 22/08 --></td>
+<td>Semana del 5/09</td>
 
 <td>
 
@@ -321,13 +321,11 @@ Form autoevaluación estudiante y evaluación a mentora/or
 
 <li>
 
-Feedback de entrevistadora/or sobre performance en
-
-entrevista + CV + Linkedin.
+Feedback de entrevistadora/or sobre performance en entrevista + CV + Linkedin.
 
 </li>
 
-<li> <a href="https://docs.google.com/forms/d/e/1FAIpQLSep0EPeAEyTsbnU-kXfyV_BECwqfRWpGgE90-pR16UxErR2Qg/viewform?usp=sf_link"> Autoevaluación de performance en entrevista + CV + Linkedin.</a></li>
+<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSep0EPeAEyTsbnU-kXfyV_BECwqfRWpGgE90-pR16UxErR2Qg/viewform?usp=sf_link"> Autoevaluación de performance en entrevista + CV + Linkedin.</a></li>
 
 <li>Tercera versión de CV + perfil de LinkedIn con mejoras incorporadas</li>
 
@@ -339,7 +337,7 @@ entrevista + CV + Linkedin.
 
 <tr>
 
-<td><!-- Semana del 5/09 --></td>
+<td>Semana del 19/09</td>
 
 <td>
 
@@ -347,9 +345,7 @@ entrevista + CV + Linkedin.
 
 <p>
 
-Tendremos un espacio con toda la cohort para compartir nuestras
-
-reflexiones, aprendizajes y retos de este proceso.
+Tendremos un espacio con toda la cohort para compartir nuestras reflexiones, aprendizajes y retos de este proceso.
 
 </p>
 
@@ -385,11 +381,7 @@ Sesiones de preparación para la simulación de entrevista tech
 
 <p>
 
-Durante el gym tech tendremos 2 sesiones de preparación para que
-
-conozcas los tipos de pruebas técnicas que te puedes encontrar en
-
-un proceso de selección y llegues más familiarizada a este momento.
+Durante el gym tech tendremos 2 sesiones de preparación para que conozcas los tipos de pruebas técnicas que te puedes encontrar en un proceso de selección y llegues más familiarizada a este momento.
 
 <p>
 
@@ -419,9 +411,7 @@ un proceso de selección y llegues más familiarizada a este momento.
 
 <p>
 
-Prepararás tu perfil de GitHub para que sea más atractivo para las
-
-personas que te conocerán en un proceso de selección.
+Prepararás tu perfil de GitHub para que sea más atractivo para las personas que te conocerán en un proceso de selección.
 
 </p>
 
@@ -435,9 +425,7 @@ personas que te conocerán en un proceso de selección.
 
 <li>
 
-OH para ver perfil de Github (son opcionales y puedes usar las que
-
-ya tienen disponibles lxs coaches).
+OH para ver perfil de Github (son opcionales y puedes usar las que ya tienen disponibles lxs coaches).
 
 </li>
 
@@ -469,9 +457,7 @@ Simulación de entrevista tech y feedback de perfil de Github
 
 <p>
 
-Te compartiremos cómo serán los simulacros de entrevista técnica y
-
-podrás prepararte para esta experiencia.
+Te compartiremos cómo serán los simulacros de entrevista técnica y podrás prepararte para esta experiencia.
 
 </p>
 
