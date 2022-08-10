@@ -285,7 +285,7 @@ Actualización del perfil de LinkedIn con recomendaciones incorporadas.
 
 <tr>
 
-<td><!-- aqui la fecha --></td>
+<td><!-- Semana del 22/08 --></td>
 
 <td>
 
@@ -293,11 +293,7 @@ Actualización del perfil de LinkedIn con recomendaciones incorporadas.
 
 <p>
 
-Este espacio lo tendrás con una persona distinta a la de las sesiones
-
-anteriores. Luego de la simulación recibirás feedback de la entrevista
-
-y de tu CV + LinkedIn y también harás una autoevaluación.
+Este espacio lo tendrás con una persona distinta a la de las sesiones anteriores. Luego de la simulación recibirás feedback de la entrevista y de tu CV + LinkedIn y también harás una autoevaluación.
 
 </p>
 
@@ -343,7 +339,7 @@ entrevista + CV + Linkedin.
 
 <tr>
 
-<td><!-- aqui la fecha --></td>
+<td><!-- Semana del 5/09 --></td>
 
 <td>
 
