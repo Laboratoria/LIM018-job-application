@@ -151,7 +151,7 @@ Recuerda que también puedes autogestionar espacios de feedback con tus peers y 
 
 <tr>
 
-<td>10/08/2022 y 17/08/2022</td>
+<td>15/08/2022 y 22/08/2022</td>
 
 <td>
 
@@ -183,7 +183,7 @@ Tendrás un simulacro grupal de entrevista de Recursos Humanos con tus compañer
 
 <tr>
 
-<td>15/08/2022</td>
+<td>10/08/2022</td>
 
 <td>
 
@@ -223,7 +223,7 @@ Sesiones de revisión de herramientas y simulación de entrevista RH
 
 </td>
 
-<td>17/08/2022</td>
+<td>18/08/2022</td>
 
 <td>
 
