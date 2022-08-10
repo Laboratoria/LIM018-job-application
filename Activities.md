@@ -261,7 +261,7 @@ Este espacio será programado por el equipo de Laboratoria y se dividirá en 2 m
 
 <tr>
 
-<td><!-- aqui la fecha --></td>
+<td><!-- Semana del 22/08 --></td>
 
 <td>
 
@@ -269,11 +269,7 @@ Este espacio será programado por el equipo de Laboratoria y se dividirá en 2 m
 
 <p>
 
-Este espacio lo coordinarás directamente con la mentora/or que ya
-
-estuviste en la sesión anterior y serás la responsable de establecer
-
-este contacto.
+Este espacio lo coordinarás directamente con la mentora/or que ya estuviste en la sesión anterior y serás la responsable de establecer este contacto.
 
 </p>
 
