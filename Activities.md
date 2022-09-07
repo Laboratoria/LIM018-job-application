@@ -467,7 +467,7 @@ Te compartiremos cómo serán los simulacros de entrevista técnica y podrás pr
 
 <ul>
 
-<li>Pildora: Buenas prácticas entrevistas tech</li>
+<li><a href="https://www.youtube.com/watch?v=0NMil00HKEU">Pildora: Buenas prácticas entrevistas tech.</a></li>
 
 </ul>
 
