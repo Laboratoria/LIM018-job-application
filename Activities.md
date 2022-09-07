@@ -421,7 +421,7 @@ Prepararás tu perfil de GitHub para que sea más atractivo para las personas qu
 
 <ul>
 
-<li>Píldora: Perfil de Github para la búsqueda de empleo.</li>
+<li><a href="https://www.youtube.com/watch?v=vQ_EBqgUR0c">Píldora: Perfil de Github para la búsqueda de empleo.</a></li>
 
 <li>
 
