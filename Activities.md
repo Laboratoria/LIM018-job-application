@@ -369,7 +369,7 @@ Tendremos un espacio con toda la cohort para compartir nuestras reflexiones, apr
 
 <td rowspan="2"><b>Preparación tech</b></td>
 
-<td><!-- aqui la fecha --></td>
+<td>1 y 15 de septiembre</td>
 
 <td>
 
@@ -403,7 +403,7 @@ Durante el gym tech tendremos 2 sesiones de preparación para que conozcas los t
 
 <tr>
 
-<td><!-- aqui la fecha --></td>
+<td>Del 19 al 30 de septiembre</td>
 
 <td>
 
@@ -433,7 +433,7 @@ OH para ver perfil de Github (son opcionales y puedes usar las que ya tienen dis
 
 </td>
 
-<td>Primera versión del perfil de GitHub (fecha)</td>
+<td>Primera versión del perfil de GitHub (Semana del 26/09)</td>
 
 </tr>
 
@@ -449,7 +449,7 @@ Simulación de entrevista tech y feedback de perfil de Github
 
 </td>
 
-<td><!-- aqui la fecha --></td>
+<td>14/09/2022</td>
 
 <td>
 
@@ -479,7 +479,7 @@ Te compartiremos cómo serán los simulacros de entrevista técnica y podrás pr
 
 <tr>
 
-<td><!-- aqui la fecha --></td>
+<td>Semana del 3/10/2022</td>
 
 <td>
 
@@ -487,17 +487,7 @@ Te compartiremos cómo serán los simulacros de entrevista técnica y podrás pr
 
 <p>
 
-Está simulación la realizará una personas de la industria que
-
-tienen experiencia en equipos de desarrollo de tecnología y que han
-
-participado de algunos procesos de selección a
-
-través de entrevistas técnicas. Luego de la simulación recibirás
-
-feedback de la entrevista y de tu Github Profile
-
-y también harás una autoevaluación.
+Está simulación la realizará una personas de la industria que tienen experiencia en equipos de desarrollo de tecnología y que han participado de algunos procesos de selección a través de entrevistas técnicas. Luego de la simulación recibirás feedback de la entrevista y de tu Github Profile y también harás una autoevaluación.
 
 </p>
 
@@ -521,9 +511,7 @@ y también harás una autoevaluación.
 
 <li>
 
-Feedback de entrevistadorx sobre performance en
-
-entrevista + perfil de GitHub.
+Feedback de entrevistadorx sobre performance en entrevista + perfil de GitHub.
 
 </li>
 
@@ -547,7 +535,7 @@ Segunda versión del perfil de GitHub con recomendaciones incorporadas.
 
 <tr>
 
-<td><!-- aqui la fecha --></td>
+<td>13/10/2022</td>
 
 <td>
 
@@ -555,11 +543,7 @@ Segunda versión del perfil de GitHub con recomendaciones incorporadas.
 
 <p>
 
-Tendremos un espacio con toda la
-
-cohorte para compartir nuestras reflexiones, aprendizajes y retos
-
-de este proceso.
+Tendremos un espacio con toda la cohorte para compartir nuestras reflexiones, aprendizajes y retos de este proceso.
 
 </p>
 
@@ -583,7 +567,7 @@ de este proceso.
 
 <td><b>Project Feedback</b></td>
 
-<td><!-- aqui la fecha --></td>
+<td>Semana del 10/10/2022</td>
 
 <td>
 
@@ -591,13 +575,7 @@ de este proceso.
 
 <p>
 
-Al finalizar el proyecto de manera grupal o individual tendremos algunos
-
-espacios de reflexión sobre tu
-
-experiencia. Esto sucederá en distintos momentos que se alinean a otros
-
-objetivos de BC (ej. 1:1 o bootcamp feedbacks)
+Al finalizar el proyecto de manera grupal o individual tendremos algunos espacios de reflexión sobre tu experiencia. Esto sucederá en distintos momentos que se alinean a otros objetivos de BC (ej. 1:1 o bootcamp feedbacks)
 
 </p>
 
