@@ -369,7 +369,7 @@ Tendremos un espacio con toda la cohort para compartir nuestras reflexiones, apr
 
 <td rowspan="2"><b>Preparación tech</b></td>
 
-<td>1 y 15 de septiembre</td>
+<td>1/09 y y 15/09</td>
 
 <td>
 
@@ -403,7 +403,7 @@ Durante el gym tech tendremos 2 sesiones de preparación para que conozcas los t
 
 <tr>
 
-<td>Del 19 al 30 de septiembre</td>
+<td>Del 19 al 30/09</td>
 
 <td>
 
